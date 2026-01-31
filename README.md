@@ -28,7 +28,6 @@
 </html>
 
 └── main.js
-console.log("🔥 main.js loaded");
 
 // ----- Scene -----
 const scene = new THREE.Scene();
