@@ -1,6 +1,4 @@
-/ (repo root)
-├── index.html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -29,7 +27,7 @@
 
 └── main.js
 
-// ----- Scene -----
+ 
 const scene = new THREE.Scene();
 scene.background = new THREE.Color(0x87ceeb);
 
