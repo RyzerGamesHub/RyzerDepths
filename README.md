@@ -20,12 +20,12 @@
   <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
 
   <!-- Your game logic -->
-  <script src="main.js"></script>
+  <script src="three.js"></script>
 
 </body>
 </html>
 
-└── main.js
+└── three.js
 
  
 const scene = new THREE.Scene();
